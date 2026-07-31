@@ -729,6 +729,9 @@ https://github.com/Suchitra-Santra/IP_Access_Control
 
 ---
 
-## 📜 License
+## ⭐ Support
 
-Add a license to the repository if you plan to distribute or open-source the project.
+If you found this project helpful, please consider giving it a ⭐ on GitHub.
+
+---
+
