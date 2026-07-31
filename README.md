@@ -719,11 +719,13 @@ It is a good foundation for learning:
 
 ## 👩‍💻 Author
 
-**Sreeja**
+**Sreeja Dey**
 
 ### 🔗 Repository
 
 https://github.com/sreeja7748/IP_Access_Control
+
+https://github.com/Suchitra-Santra/IP_Access_Control
 
 ---
 
